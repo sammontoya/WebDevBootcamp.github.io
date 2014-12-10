@@ -407,3 +407,19 @@
   session: spring2014
   name: Troy Sol
   github: TDSolberg
+  
+  - userid: sammontoya
+  website: https://github.com/sammontoya
+  student: true
+  session: Fall2014
+  name: Samantha Montoya
+  github: sammontoya
+  linkedin: https://www.linkedin.com/in/samanthaannmontoya
+  email: samanthaannmontoya@gmail.com
+  phone: 303-669-7464
+  city: Denver
+  state: CO
+  postal: 80212
+  resume: 
+
+
